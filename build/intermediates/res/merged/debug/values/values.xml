@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="memory_white_list">
+
+        <!-- WeChat -->
+        <item>com.tencent.mm</item>
+        <!-- QQ -->
+        <item>com.tencent.mobileqq</item>
+        <item>com.tencent.mobileqqi</item>
+        <!-- Whatsapp -->
+        <item>com.whatsapp</item>
+        <!-- LINE -->
+        <item>jp.naver.line.android</item>
+        <!-- Skype International -->
+        <item>com.skype.raider</item>
+        <!-- Skype China PlayStore -->
+        <item>com.skype.polaris</item>
+        <!-- Skype Only China Mainland -->
+        <item>com.skype.rover</item>
+        <!-- Facebook Messenger -->
+        <item>com.facebook.orca</item>
+        <!-- Viber -->
+        <item>com.viber.voip</item>
+        <!-- Facebook -->
+        <item>com.facebook.katana</item>
+        <!-- Twitter -->
+        <item>com.twitter.android</item>
+        <!-- Google Maps -->
+        <item>com.google.android.apps.maps</item>
+        <!-- Google+ -->
+        <item>com.google.android.gsf</item>
+        <!-- Google Play services -->
+        <item>com.google.android.gms</item>
+        <!-- BBM -->
+        <item>com.bbm</item>
+        <item>com.bbm1</item>
+        <item>com.bbm2</item>
+        <item>com.bbm3</item>
+        <!-- Imo Messenger -->
+        <item>com.imo.android.imoim</item>
+        <!-- Hike Messenger -->
+        <item>com.bsb.hike</item>
+    </string-array>
+    <color name="action_bar_background">#ffe2e2e2</color>
+    <color name="appinfo_color">#33000000</color>
+    <color name="appname_color">#cc000000</color>
+    <color name="clean_result_bg">#2990ef</color>
+    <color name="focus_color">#7f33b5e5</color>
+    <color name="settings_window_background">#fff5f5f5</color>
+    <color name="status_bar_background">#ffe2e2e2</color>
+    <color name="sticky_header_bg">#6699FF</color>
+    <dimen name="app_name_size">16sp</dimen>
+    <dimen name="boot_backgroup_size">12sp</dimen>
+    <dimen name="child_app_name_size">16sp</dimen>
+    <dimen name="child_backgroup_size">10sp</dimen>
+    <dimen name="child_cb_padding">6dip</dimen>
+    <dimen name="child_padding">2dip</dimen>
+    <dimen name="column_width">120dp</dimen>
+    <dimen name="item_h_w">80dp</dimen>
+    <dimen name="sticky_header_height">200dip</dimen>
+    <dimen name="sticky_header_junk_size">70dip</dimen>
+    <item name="holder_tag" type="id"/>
+    <item name="load_layout" type="id"/>
+    <item name="notification_clean_master" type="id"/>
+    <item name="ok_btn" type="id"/>
+    <item name="pbar" type="id"/>
+    <item name="press" type="id"/>
+    <item name="select_btn" type="id"/>
+    <item name="selected_num" type="id"/>
+    <string name="app_name">Junk Clean</string>
+    <string name="clean_auto_size_0">The %s system garbage has been automatically cleared!</string>
+    <string name="clean_auto_size_1">Has been scanned to %s system garbage, it is recommended to clean up</string>
+    <string name="clean_auto_size_2">Currently available space is less than %s, it is recommended to clean up</string>
+    <string name="junk_clean_bigfile_title">Big files scan</string>
+    <string name="junk_clean_btn_clean_cleanning">Cleanning …</string>
+    <string name="junk_clean_btn_clean_finish">Cleaned</string>
+    <string name="junk_clean_btn_clean_start">1 Tap Clean</string>
+    <string name="junk_clean_btn_scan_start">Start Scan</string>
+    <string name="junk_clean_btn_scan_stop">Stop Scanning</string>
+    <string name="junk_clean_cache_title">Cache junk</string>
+    <string name="junk_clean_invalid_apk_title">Obsolete apks</string>
+    <string name="junk_clean_invalid_size_value">Couldn\u2019t compute size.</string>
+    <string name="junk_clean_memory_title">Memory boost</string>
+    <string name="junk_clean_music_title">Music files scan</string>
+    <string name="junk_clean_nothing_to_clean">Very clean</string>
+    <string name="junk_clean_picture_title">Picture files scan</string>
+    <string name="junk_clean_size_info">Cleaned: %s of junk</string>
+    <string name="junk_clean_system_title">System junk</string>
+    <string name="junk_clean_uninstall_title">Residual junk files</string>
+    <string name="junk_clean_video_title">Video files scan</string>
+    <string name="junk_size">0 MB</string>
+    <string name="junk_size_info">Total found: %s of junk</string>
+    <string name="more_picture">Picture compression</string>
+    <string name="more_settings">Settings</string>
+    <string name="more_uninstall">Uninstall app</string>
+    <string name="permission_tip">You denied the storage permission and selected never ask again option. Please go to Settings->App to enable it.</string>
+    <string name="piccompress_complete">complete</string>
+    <string name="piccompress_count">files</string>
+    <string name="piccompress_pic_count">Compress  %d pics</string>
+    <string name="settings_clean_auto">Automatic key scan when starting APP</string>
+    <string name="settings_clean_frequency">Garbage scan cleanup</string>
+    <string name="settings_clean_frequency_value_0">Automatic cleaning</string>
+    <string name="settings_clean_frequency_value_1">Scan only</string>
+    <string name="settings_clean_frequency_value_2">No scan</string>
+    <string name="uninstall_fail">%s uninstall fail</string>
+    <string name="uninstall_ing">Uninstalling…</string>
+    <string name="uninstall_start">Batch uninstall</string>
+    <string name="uninstall_success">%s uninstall success ^_^</string>
+    <string name="uninstall_total_size">Internal storage space already in use: %s</string>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:windowBackground">@color/settings_window_background</item>
+        <item name="android:colorPrimaryDark">@color/status_bar_background</item>
+        <item name="android:colorPrimary">@color/action_bar_background</item>
+        <item name="android:actionBarStyle">@style/LavaActionBarStyle</item>
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="LavaActionBarStyle" parent="android:Widget.Material.ActionBar">
+        <item name="android:background">@color/action_bar_background</item>
+        <item name="android:elevation">0dip</item>
+    </style>
+</resources>

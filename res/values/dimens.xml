@@ -1,0 +1,21 @@
+<resources>
+
+    <dimen name="sticky_header_height">200dip</dimen>
+    <dimen name="sticky_header_junk_size">70dip</dimen>
+
+    <!-- add start item_chile_list.laout -->
+    <dimen name="child_padding">2dip</dimen>
+    <dimen name="child_app_name_size">16sp</dimen>
+    <dimen name="child_backgroup_size">10sp</dimen>
+    <dimen name="child_cb_padding">6dip</dimen>
+    <!-- add end item_chile_list.laout -->
+
+    <!-- add start uninstall app list -->
+    <dimen name="app_name_size">16sp</dimen>
+    <dimen name="boot_backgroup_size">12sp</dimen>
+    <!-- add end uninstall app list -->
+
+    <!-- piccompress -->
+    <dimen name="item_h_w">80dp</dimen>
+    <dimen name="column_width">120dp</dimen>
+</resources>

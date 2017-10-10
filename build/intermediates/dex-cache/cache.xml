@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProject\LavaCleanMaster\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\AndroidStudioProject\LavaCleanMaster\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.1_08e511bb0e66dddfbe7c44167f420cb36bc0ec82\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\LavaCleanMaster\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6705f97ebb0ea1b2fa675ed4940df430b1f6fa92">
+        <dex dex="D:\AndroidStudioProject\LavaCleanMaster\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5691a7a8996f565d09fc8ac4e17b37d38f48457d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fadi.su\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.3\a85588bec3e2c4584d593d3f15df1677321bca72\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\AndroidStudioProject\LavaCleanMaster\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.3_923aca0b59b8d3dafeeae52637dd5f2d288eef77\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjectsSDK\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\AndroidStudioProject\LavaCleanMaster\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_151a8838689c555a4bd49f3114200e6be8a05a2d\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\LavaCleanMaster\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="90a7ceabd185510f653075ee68735bbf7fbde309">
+        <dex dex="D:\AndroidStudioProject\LavaCleanMaster\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_47f5c5f77af66e910e568b9fcae775f61913bc24\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\LavaCleanMaster\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\AndroidStudioProject\LavaCleanMaster\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_95d7c9eda08c537e5204081c7a2b0f7753220ea9\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProject\LavaCleanMaster\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\AndroidStudioProject\LavaCleanMaster\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_061e46dace7b0cd8dc4259bac638c32b75dfbc80\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fadi.su\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.1\4e4cfa4adc74521d5966799fa5ab70b733552f68\rxjava-1.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4e4cfa4adc74521d5966799fa5ab70b733552f68">
+        <dex dex="D:\AndroidStudioProject\LavaCleanMaster\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.2.1_d51bd6f84a27477fa7029d95415438966b58a01e\classes.dex" />
+    </item>
+
+</items>

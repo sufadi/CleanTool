@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\drawable\\item_press_bg.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\drawable\\item_press_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\drawable\\junk_clean_btn_bg_seletor.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\drawable\\junk_clean_btn_bg_seletor.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\drawable\\list_divider_line.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\drawable\\list_divider_line.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\drawable\\junk_clean_loading_rotate.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\drawable\\junk_clean_loading_rotate.xml"
+    }
+]

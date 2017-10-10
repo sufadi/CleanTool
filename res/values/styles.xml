@@ -1,0 +1,26 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:windowBackground">@color/settings_window_background</item>
+        <item name="android:colorPrimaryDark">@color/status_bar_background</item>
+        <item name="android:colorPrimary">@color/action_bar_background</item>
+        <item name="android:actionBarStyle">@style/LavaActionBarStyle</item>
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="LavaActionBarStyle" parent="android:Widget.Material.ActionBar">
+        <item name="android:background">@color/action_bar_background</item>
+        <item name="android:elevation">0dip</item>
+    </style>
+
+</resources>

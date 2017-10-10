@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:2:1-109:12
+	package
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:3:5-37
+		INJECTED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml
+	android:sharedUserId
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:4:5-46
+	android:versionName
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:6:5-30
+		INJECTED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:5:5-28
+		INJECTED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:8:5-44
+MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProject\LavaCleanMaster\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] D:\AndroidStudioProject\LavaCleanMaster\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\AndroidManifest.xml:19:5-43
+	android:minSdkVersion
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:8:15-41
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.DELETE_CACHE_FILES
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:15:5-77
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:15:22-74
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.FORCE_STOP_PACKAGES
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:19:22-75
+uses-permission#android.permission.DELETE_PACKAGES
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:23:5-74
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:23:22-71
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:24:5-84
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:24:22-81
+uses-permission#android.permission.CLEAR_APP_CACHE
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:25:5-74
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:25:22-71
+uses-permission#android.permission.CLEAR_APP_USER_DATA
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:26:22-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:27:5-75
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:27:22-72
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:31:5-78
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:31:22-75
+application
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:34:5-107:19
+MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProject\LavaCleanMaster\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:37:9-41
+	android:icon
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:36:9-45
+	android:theme
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:38:9-40
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:35:9-66
+activity#cleantool.su.starcleanmaster.ui.JunkCleanActivity
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:39:9-49:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:42:13-45
+	android:configChanges
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:41:13-74
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:40:13-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:47:27-74
+receiver#cleantool.su.starcleanmaster.recevier.CleanMasterRecevier
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:51:9-58:20
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:51:19-91
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:52:13-57:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:53:17-78
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:53:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:54:25-77
+data
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:56:17-50
+	android:scheme
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:56:23-47
+provider#cleantool.su.starcleanmaster.providers.CleanMasterProvider
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:60:9-64:59
+	android:authorities
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:62:13-50
+	android:grantUriPermissions
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:64:13-47
+	android:exported
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:63:13-36
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:61:13-86
+service#cleantool.su.starcleanmaster.service.CleanService
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:66:9-93
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:66:18-82
+activity#cleantool.su.starcleanmaster.ui.CleanResultActivity
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:68:9-71:61
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:71:13-49
+	android:configChanges
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:70:13-74
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:69:13-79
+activity#cleantool.su.starcleanmaster.ui.SettingsActivity
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:72:9-76:61
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:75:13-50
+	android:configChanges
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:74:13-74
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:73:13-76
+activity#cleantool.su.starcleanmaster.ui.PictureCompressionActivity
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:77:9-81:61
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:81:13-49
+	android:label
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:80:13-49
+	android:configChanges
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:79:13-74
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:78:13-86
+activity#cleantool.su.piccompress.GridImage
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:82:9-86:61
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:86:13-49
+	android:label
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:85:13-49
+	android:configChanges
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:84:13-74
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:83:13-62
+activity#cleantool.su.piccompress.ui.AlbumItemActivity
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:87:9-91:61
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:91:13-49
+	android:label
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:90:13-49
+	android:configChanges
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:89:13-74
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:88:13-73
+activity#cleantool.su.piccompress.ui.AlbumsMainActivity
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:92:9-96:61
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:96:13-49
+	android:label
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:95:13-49
+	android:configChanges
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:94:13-74
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:93:13-74
+activity#cleantool.su.piccompress.ui.SelectedImagesActivity
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:97:9-101:61
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:101:13-49
+	android:label
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:100:13-49
+	android:configChanges
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:99:13-74
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:98:13-78
+activity#cleantool.su.starcleanmaster.ui.UninstallAppActivity
+ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:102:9-106:61
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:106:13-49
+	android:label
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:105:13-51
+	android:configChanges
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:104:13-74
+	android:name
+		ADDED from D:\AndroidStudioProject\LavaCleanMaster\AndroidManifest.xml:103:13-80

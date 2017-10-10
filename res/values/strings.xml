@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Junk Clean</string>
+    <string name="junk_clean_system_title">System junk</string>
+    <string name="junk_clean_cache_title">Cache junk</string>
+    <string name="junk_clean_invalid_apk_title">Obsolete apks</string>
+    <string name="junk_clean_uninstall_title">Residual junk files</string>
+    <string name="junk_clean_memory_title">Memory boost</string>
+    <string name="junk_clean_bigfile_title">Big files scan</string>
+    <string name="junk_clean_video_title">Video files scan</string>
+    <string name="junk_clean_music_title">Music files scan</string>
+    <string name="junk_clean_picture_title">Picture files scan</string>
+    <string name="more_settings">Settings</string>
+    <string name="more_picture">Picture compression</string>
+
+    <!-- uninstall -->
+    <string name="more_uninstall">Uninstall app</string>
+    <string name="uninstall_total_size">Internal storage space already in use: %s</string>
+    <string name="uninstall_start">Batch uninstall</string>
+    <string name="uninstall_ing">Uninstalling&#8230;</string>
+    <string name="uninstall_success">%s uninstall success ^_^</string>
+    <string name="uninstall_fail">%s uninstall fail</string>
+
+    <string name="junk_size">0 MB</string>
+    <string name="junk_size_info">Total found: %s of junk</string>
+    <string name="junk_clean_size_info">Cleaned: %s of junk</string>
+    <string name="junk_clean_btn_scan_start">Start Scan</string>
+    <string name="junk_clean_btn_scan_stop">Stop Scanning</string>
+    <string name="junk_clean_btn_clean_start">1 Tap Clean</string>
+    <string name="junk_clean_btn_clean_finish">Cleaned</string>
+    <string name="junk_clean_btn_clean_cleanning">Cleanning &#8230;</string>
+    <string name="junk_clean_invalid_size_value">Couldn\u2019t compute size.</string>
+    <string name="junk_clean_nothing_to_clean">Very clean</string>
+    <string name="permission_tip">You denied the storage permission and selected never ask again option. Please go to Settings->App to enable it.</string>
+
+    <!-- piccompress -->
+    <string name="piccompress_complete">complete</string>
+    <string name="piccompress_count">files</string>
+    <string name="piccompress_pic_count">Compress  %d pics</string>
+
+    <!-- settings -->
+    <string name="settings_clean_auto">Automatic key scan when starting APP</string>
+    <string name="settings_clean_frequency">Garbage scan cleanup</string>
+    <string name="settings_clean_frequency_value_0">Automatic cleaning</string>
+    <string name="settings_clean_frequency_value_1">Scan only</string>
+    <string name="settings_clean_frequency_value_2">No scan</string>
+    <string name="clean_auto_size_0">The %s system garbage has been automatically cleared!</string>
+    <string name="clean_auto_size_1">Has been scanned to %s system garbage, it is recommended to clean up</string>
+    <string name="clean_auto_size_2">Currently available space is less than %s, it is recommended to clean up</string>
+
+</resources>

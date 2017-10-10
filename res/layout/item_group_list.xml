@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@android:color/white"
+    android:gravity="center_vertical"
+    android:padding="10dip">
+
+    <ImageView
+        android:id="@+id/tv_group_arrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dip"
+        android:src="@drawable/common_arrow_expand" />
+
+    <TextView
+        android:id="@+id/tv_group_title"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:paddingLeft="5dip"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tv_group_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:gravity="right"
+        android:textSize="@dimen/child_backgroup_size"
+        android:textColor="@android:color/darker_gray" />
+
+    <CheckBox
+        android:id="@+id/cb_group_check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/child_cb_padding"
+        android:layout_gravity="right"
+        android:checked="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
+
+</LinearLayout>

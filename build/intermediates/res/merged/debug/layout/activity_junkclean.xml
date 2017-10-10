@@ -1,0 +1,46 @@
+<cleantool.su.starcleanmaster.view.StickyLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/sticky_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/junkclean_header" />
+
+    <LinearLayout
+        android:id="@+id/sticky_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <ListView
+            android:id="@+id/lv_content_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="#00000000"></ListView>
+
+        <cleantool.su.starcleanmaster.view.PinnedHeaderExpandableListView
+            android:id="@+id/lv_content"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:childIndicatorLeft="10dip"
+            android:dividerHeight="1dip"
+            android:groupIndicator="@null"
+            android:visibility="gone"></cleantool.su.starcleanmaster.view.PinnedHeaderExpandableListView>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_click"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_margin="8dip"
+        android:background="@drawable/junk_clean_btn_bg_seletor"
+        android:gravity="center"
+        android:onClick="onButtonClick"
+        android:text="@string/junk_clean_btn_scan_start"
+        android:textColor="@android:color/white" />
+
+</cleantool.su.starcleanmaster.view.StickyLayout>

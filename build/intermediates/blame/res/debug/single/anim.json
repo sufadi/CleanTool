@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\anim\\clean_result_rotate_circle_anim.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\anim\\clean_result_rotate_circle_anim.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out_anim.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\anim\\push_left_out_anim.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in_anim.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\anim\\push_right_in_anim.xml"
+    }
+]

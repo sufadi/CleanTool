@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\item_child_list.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\item_child_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\activity_uninstallapp.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\activity_uninstallapp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\item_group_list.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\item_group_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\pic_selected_images_adapter_item.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\pic_selected_images_adapter_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\pic_item.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\pic_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\pic_sdcard.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\pic_sdcard.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\pic_selected_images_grid.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\pic_selected_images_grid.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\pic_ablums_adapter_item.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\pic_ablums_adapter_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\pic_album_item_images_item_view.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\pic_album_item_images_item_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\item_uninstall_app_list.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\item_uninstall_app_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\pic_album_item_images.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\pic_album_item_images.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\activity_junkclean.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\activity_junkclean.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\pic_albums_gridview.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\pic_albums_gridview.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\junkclean_header.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\junkclean_header.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clean_result.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\activity_clean_result.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\LavaCleanMaster\\build\\intermediates\\res\\merged\\debug\\layout\\item_content_head_list.xml",
+        "source": "D:\\AndroidStudioProject\\LavaCleanMaster\\res\\layout\\item_content_head_list.xml"
+    }
+]

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="sticky_header_bg">#6699FF</color>
+    <color name="clean_result_bg">#2990ef</color>
+    <color name="settings_window_background">#fff5f5f5</color>
+    <color name="action_bar_background">#ffe2e2e2</color>
+    <color name="status_bar_background">#ffe2e2e2</color>
+
+    <!-- add start uninstall app list -->
+    <color name="appname_color">#cc000000</color>
+    <color name="appinfo_color">#33000000</color>
+    <!-- add end uninstall app list -->
+
+    <!-- piccompress -->
+    <color name="focus_color">#7f33b5e5</color>
+</resources>

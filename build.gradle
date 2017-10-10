@@ -1,0 +1,80 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.1.2'
+    }
+}
+allprojects {
+    repositories {
+        jcenter()
+        maven { url 'http://192.168.8.36:8081/nexus/content/repositories/lava/' }
+    }
+    configurations {
+        all*.exclude group: 'com.android.support', module: 'support-v4'
+        all*.exclude group: 'com.android.support', module: 'support-annotations'
+    }
+}
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion java.lang.Integer.parseInt(project.ANDROID_BUILD_SDK_VERSION)
+    buildToolsVersion project.ANDROID_BUILD_TOOLS_VERSION
+    defaultConfig {
+        applicationId "com.su.starcleanmaster"
+    }
+
+    signingConfigs {
+        release {
+            storeFile file("${ANDROID_SIGN_DIR_PATH}/platform.jks")
+            storePassword project.ANDROID_SIGN_PLATFORM_PASSWD
+            keyAlias project.ANDROID_SIGN_PLATFORM_ALIAS
+            keyPassword project.ANDROID_SIGN_PLATFORM_PASSWD
+        }
+
+        debug {
+            storeFile file("${ANDROID_SIGN_DIR_PATH}/platform.jks")
+            storePassword project.ANDROID_SIGN_PLATFORM_PASSWD
+            keyAlias project.ANDROID_SIGN_PLATFORM_ALIAS
+            keyPassword project.ANDROID_SIGN_PLATFORM_PASSWD
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.release
+        }
+    }
+
+    sourceSets {
+        main {
+            java.srcDirs = ['src']
+            res.srcDirs = ['res']
+            manifest.srcFile 'AndroidManifest.xml'
+        }
+    }
+
+    aaptOptions {
+        additionalParameters '--version-name',
+                "${APK_VERSION_NAME}",
+                '--version-code',
+                "${APK_VERSION_CODE}"
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:23.2.1'
+    compile 'io.reactivex:rxjava:1.2.1'
+    compile 'io.reactivex:rxandroid:1.2.1'
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.3'
+}

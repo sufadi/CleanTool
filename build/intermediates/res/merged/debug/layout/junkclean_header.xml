@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sticky_header"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/sticky_header_height"
+    android:background="@color/sticky_header_bg">
+
+    <TextView
+        android:id="@+id/tv_junk_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/junk_size"
+        android:layout_centerInParent="true"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/sticky_header_junk_size" />
+
+    <TextView
+        android:id="@+id/tv_junk_size_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dip"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/tv_junk_size"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>

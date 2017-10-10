@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dip"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/iv_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/junk_clean_system" />
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingLeft="10dip"
+        android:layout_gravity="center_vertical"
+        android:textColor="@android:color/black"
+        android:text="@string/junk_clean_system_title" />
+
+    <ImageView
+        android:id="@+id/iv_right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/common_checkbox_checked"
+        android:visibility="gone" />
+
+    <ProgressBar
+        android:id="@+id/pb_right"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:indeterminateDuration="500"
+        android:indeterminateDrawable="@drawable/junk_clean_loading_rotate"
+        android:visibility="gone" />
+
+</LinearLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">垃圾清理</string>
+    <string name="clean_auto_size_0">已自动清理掉  %s 系统垃圾！</string>
+    <string name="clean_auto_size_1">已扫描到  %s 系统垃圾，建议清理</string>
+    <string name="clean_auto_size_2">当前可用空间低于  %s ，建议清理</string>
+    <string name="junk_clean_bigfile_title">大文件扫描</string>
+    <string name="junk_clean_btn_clean_cleanning">正在清理 …</string>
+    <string name="junk_clean_btn_clean_finish">清理完毕</string>
+    <string name="junk_clean_btn_clean_start">一键清理</string>
+    <string name="junk_clean_btn_scan_start">开始扫描</string>
+    <string name="junk_clean_btn_scan_stop">停止扫描</string>
+    <string name="junk_clean_cache_title">缓存垃圾</string>
+    <string name="junk_clean_invalid_apk_title">无效安装包</string>
+    <string name="junk_clean_memory_title">内存加速</string>
+    <string name="junk_clean_music_title">音频文件</string>
+    <string name="junk_clean_nothing_to_clean">真干净</string>
+    <string name="junk_clean_picture_title">图片文件</string>
+    <string name="junk_clean_size_info">成功清理: %s 垃圾！</string>
+    <string name="junk_clean_system_title">系统盘垃圾</string>
+    <string name="junk_clean_uninstall_title">卸载残留</string>
+    <string name="junk_clean_video_title">视频文件</string>
+    <string name="junk_size">0 MB</string>
+    <string name="junk_size_info">共发现: %s 垃圾文件</string>
+    <string name="more_picture">图片压缩</string>
+    <string name="more_settings">设置</string>
+    <string name="more_uninstall">应用卸载</string>
+    <string name="piccompress_complete">完成</string>
+    <string name="piccompress_count">文件</string>
+    <string name="piccompress_pic_count">压缩  %d 张</string>
+    <string name="settings_clean_auto">启动APP时自动一键扫描</string>
+    <string name="settings_clean_frequency">垃圾扫描清理</string>
+    <string name="settings_clean_frequency_value_0">自动清理</string>
+    <string name="settings_clean_frequency_value_1">仅扫描</string>
+    <string name="settings_clean_frequency_value_2">不扫描</string>
+    <string name="uninstall_fail">%s 卸载失败</string>
+    <string name="uninstall_ing">正在卸载中…</string>
+    <string name="uninstall_start">一键卸载</string>
+    <string name="uninstall_success">%s 已经成功卸载了 ^_^</string>
+    <string name="uninstall_total_size">内部存储空间已使用: %s</string>
+</resources>

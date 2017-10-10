@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="memory_white_list">
+
+        <!-- WeChat -->
+        <item>com.tencent.mm</item>
+        <!-- QQ -->
+        <item>com.tencent.mobileqq</item>
+        <item>com.tencent.mobileqqi</item>
+        <!-- Whatsapp -->
+        <item>com.whatsapp</item>
+        <!-- LINE -->
+        <item>jp.naver.line.android</item>
+        <!-- Skype International -->
+        <item>com.skype.raider</item>
+        <!-- Skype China PlayStore -->
+        <item>com.skype.polaris</item>
+        <!-- Skype Only China Mainland -->
+        <item>com.skype.rover</item>
+        <!-- Facebook Messenger -->
+        <item>com.facebook.orca</item>
+        <!-- Viber -->
+        <item>com.viber.voip</item>
+        <!-- Facebook -->
+        <item>com.facebook.katana</item>
+        <!-- Twitter -->
+        <item>com.twitter.android</item>
+        <!-- Google Maps -->
+        <item>com.google.android.apps.maps</item>
+        <!-- Google+ -->
+        <item>com.google.android.gsf</item>
+        <!-- Google Play services -->
+        <item>com.google.android.gms</item>
+        <!-- BBM -->
+        <item>com.bbm</item>
+        <item>com.bbm1</item>
+        <item>com.bbm2</item>
+        <item>com.bbm3</item>
+        <!-- Imo Messenger -->
+        <item>com.imo.android.imoim</item>
+        <!-- Hike Messenger -->
+        <item>com.bsb.hike</item>
+    </string-array>
+
+</resources>
